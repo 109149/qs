@@ -16,7 +16,7 @@
 1. ### What does a doctype do?
 
 <details>
-<summary>ANSWER</summary>
+<summary>answer</summary>
 
 `<!DOCTYPE html>` is (required) preamble found at the top of the documents. Its
 purpose is to prevent browser from switching into so-called "quirk-modes" when
@@ -27,10 +27,12 @@ browser makes a best-effort attempt at following the relevant specifications.
 
 **[⬆ Back to Top](#table-of-contents)**
 
+---
+
 2. ### How do you serve a page with content in multiple languages?
 
 <details>
-<summary>ANSWER</summary>
+<summary>answer</summary>
 
 `Accept-Language` request header.
 `Content-Language` response header.
@@ -48,10 +50,12 @@ for seo:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+---
+
 3. ### What are `data-` attributes good for?
 
 <details>
-<summary>ANSWER</summary>
+<summary>answer</summary>
 
 `data-` can be helpful when we are testing e2e.
 
@@ -59,10 +63,12 @@ for seo:
 
 **[⬆ Back to Top](#table-of-contents)**
 
+---
+
 4. ### Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 
 <details>
-<summary>ANSWER</summary>
+<summary>answer</summary>
 
 - _Semantincs_: allowing you to describe more precisely what your content is.
 - _Connectivity_: allowing you to communicate with the server.
@@ -85,7 +91,7 @@ for seo:
 5. ### Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
 
 <details>
-<summary>ANSWER</summary>
+<summary>answer</summary>
 
 |                                        | `cookie`                                             | `localStorage` | `sessionStorage` |
 | -------------------------------------- | ---------------------------------------------------- | -------------- | ---------------- |
@@ -99,3 +105,5 @@ for seo:
 </details>
 
 **[⬆ Back to Top](#table-of-contents)**
+
+---
