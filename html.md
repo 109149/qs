@@ -33,9 +33,9 @@ browser makes a best-effort attempt at following the relevant specifications.
 `Content-Language` response header.
 
 default value for `lang` attribute is `unknown`, it is recommended to always
-specify this attribute with appropritate value `<html lang="...">...</html>`.
+specify this attribute with appropriate value `<html lang="...">...</html>`.
 
-for seo
+for seo:
 
 ```html
 <link rel="alternate" hreflang="en-gb" href="..." />
