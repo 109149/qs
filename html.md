@@ -119,7 +119,7 @@ for seo:
 <details>
 <summary>answer</summary>
 
-- `<script>` - HTML parsing is blocked, script if fetched and executed
+- `<script>` - HTML parsing is blocked, script is fetched and executed
   immediately, HTML parsing resumes after the script is finished.
 - `<script async>` - The script will be fetched in parallel to HTML, parsing
   and executing as soon as available (potentially before HTML parsing
